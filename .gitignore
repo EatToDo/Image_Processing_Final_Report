@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.pyc
+
+# Models / checkpoints
+*.pt
+*.pth
+*.ckpt
+*.onnx
+*.safetensors
+
+# Data / large binaries
+*.zip
+*.tar
+*.tar.gz
+*.7z
+*.mp4
+*.mov
+*.avi
+*.mkv
+*.npy
+*.npz
+*.ply
+*.pcd
+*.obj
+*.stl
+
+# OS
+.DS_Store
+
+# Secrets
+.env
+token.json
