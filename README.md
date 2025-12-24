@@ -10,4 +10,6 @@ checkpoints/
 
 ## Usage
 The entire 3D reconstruction pipeline can be executed using the provided shell script:
-bash run.bash
+
+```bash
+chmod +x run.bash
